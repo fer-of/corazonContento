@@ -103,7 +103,7 @@ Sigue estos pasos para configurar el entorno de desarrollo local.
 
 ## 📈 Estado Actual del Proyecto
 
-El proyecto cuenta con una primera versión conceptual y algunos módulos básicos definidos.Se debe continuar con el desarrollo, la integración de IA, las pruebas piloto y la optimización para escalar.El equipo se encuentra en un proceso de validación y mejora continua.
+El proyecto cuenta con una primera versión conceptual y algunos módulos básicos definidos.Se debe continuar con el desarrollo, la integración de IA, las pruebas piloto y la optimización para escalar.El equipo se encuentra en un proceso de validación y mejora continua. Ya cuenta con la integracion de SonarQube para los CI/CD
 
 ## 👥 Equipo del Proyecto
 
